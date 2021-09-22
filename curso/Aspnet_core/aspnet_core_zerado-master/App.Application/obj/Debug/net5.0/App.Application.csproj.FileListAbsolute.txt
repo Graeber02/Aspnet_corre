@@ -1,0 +1,15 @@
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\bin\Debug\net5.0\App.Application.deps.json
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\bin\Debug\net5.0\App.Application.dll
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\bin\Debug\net5.0\ref\App.Application.dll
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\bin\Debug\net5.0\App.Application.pdb
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\bin\Debug\net5.0\App.Domain.dll
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\bin\Debug\net5.0\App.Domain.pdb
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\obj\Debug\net5.0\App.Application.csproj.AssemblyReference.cache
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\obj\Debug\net5.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\obj\Debug\net5.0\App.Application.AssemblyInfoInputs.cache
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\obj\Debug\net5.0\App.Application.AssemblyInfo.cs
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\obj\Debug\net5.0\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\obj\Debug\net5.0\App.Application.csproj.CopyComplete
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\obj\Debug\net5.0\App.Application.dll
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\obj\Debug\net5.0\ref\App.Application.dll
+C:\Users\graeb\curso\cu\aspnet_core_zerado-master\App.Application\obj\Debug\net5.0\App.Application.pdb
